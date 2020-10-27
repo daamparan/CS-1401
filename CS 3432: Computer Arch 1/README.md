@@ -1,3 +1,9 @@
+# THIS IS A COPY 
+# Details
+All details of the lab are detailed below, this is a direct copy of assignment given
+to me by Dr. Freudenthal. A link to his website can be found below.  
+
+
 Lab Project 1: Building a Tokenizer
 ===================================
 All work should be your own work. Please see the [Course Website](https://sites.google.com/site/arch1utep/home#TOC-Academic-Honesty) for full details on the course's policy on academic honesty.
