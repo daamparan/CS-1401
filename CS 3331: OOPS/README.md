@@ -4,4 +4,4 @@ variables. OOPS allowed us to practice different techniques to develop our softw
 are the background of a Battleship-like game. Using concepts and techniques we built the layout without the full implementation. 
 
 The Battleship-like game was the main project for this class that was built upon throughout the semester. Furthermore, depending on the topic, like
-multi-threading, a seperate program is used (not Battleshi[-like game) to explore this topic. 
+multi-threading, a seperate program is used (not Battleship-like game) to explore this topic. 
