@@ -1,4 +1,8 @@
 # Past-Current-Labs
 Labs and Projects
-THIS REPOSITORY CONTAINS PAST AND CURRENT LABS WORKED WITHIN CLASS
-MOST ARE FROM CS3331 AND FORWARD, NOT BEFORE ONLY ONE CS 1301 LAB INCLUDED
+This repository contains Past labs from all (latest) CS courses I have taken during my academic 
+career.
+
+# Progress
+The programs in the repository come from my beginning roots in CS to my latest, which gives an evolutionary 
+take on my coding style, problem solving, and approaches. 
