@@ -1,8 +1,3 @@
-# THIS IS A COPY 
-# Details
-All details of the lab are detailed below, this is a direct copy of assignment given
-to me by Dr. Freudenthal. A link to his website can be found below.  
-
 
 Lab Project 1: Building a Tokenizer
 ===================================
