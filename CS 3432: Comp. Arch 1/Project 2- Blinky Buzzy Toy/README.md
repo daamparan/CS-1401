@@ -1,3 +1,4 @@
+# This is a copy
 # Project 2 - Blinky Buzzy Toy
 
 After being introduced to the C language and building a simple project that mainly dealt with pointers.
